@@ -9,6 +9,8 @@ The script relies on multiple modules found in `src`, which can be also used ind
 
 ### Dependencies apart from standard python libraries
 
+The code was written in Python 3.6 and standard python modules were used. Extra modules required are:
+
 - pymongo
 - urllib
 - numpy
